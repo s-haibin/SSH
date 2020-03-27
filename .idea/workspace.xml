@@ -23,6 +23,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="119" column="17" lean-forward="true" selection-start-line="119" selection-start-column="17" selection-end-line="119" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ssh/controller/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -44,7 +54,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resoures/META-INF/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
@@ -131,6 +141,9 @@
       <find>DispatcherServlet</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -139,7 +152,6 @@
         <option value="$PROJECT_DIR$/src/main/resoures/META-INF/spring-mvc.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/ssh/service/TestService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ssh/service/impl/TestServiceImpl.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/resoures/config.properties" />
         <option value="$PROJECT_DIR$/src/main/resoures/META-INF/applicationContext.xml" />
@@ -150,6 +162,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ssh/service/impl/PersonServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ssh/controller/MainController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ssh/repository/PersonRepository.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -168,11 +181,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="798" />
-    <option name="y" value="53" />
+    <option name="x" value="523" />
+    <option name="y" value="142" />
     <option name="width" value="1133" />
     <option name="height" value="1010" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -300,6 +314,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
@@ -544,12 +559,12 @@
       <updated>1585203654167</updated>
       <workItem from="1585203658116" duration="13703000" />
       <workItem from="1585279275320" duration="3044000" />
-      <workItem from="1585292718504" duration="1851000" />
+      <workItem from="1585292718504" duration="2469000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18598000" />
+    <option name="totallyTimeSpent" value="19216000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -561,7 +576,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="639" y="43" width="906" height="808" extended-state="0" />
+    <frame x="386" y="123" width="906" height="808" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29009435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -646,14 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="140" column="43" lean-forward="true" selection-start-line="140" selection-start-column="43" selection-end-line="140" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -742,6 +750,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="119" column="17" lean-forward="true" selection-start-line="119" selection-start-column="17" selection-end-line="119" selection-end-column="17" />
         </state>
       </provider>
     </entry>
