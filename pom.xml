@@ -71,7 +71,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <version>4.3.3.RELEASE</version>
+      <version>5.2.20.RELEASE</version>
     </dependency>
     <!-- 引入c3p0数据库连接池 -->
     <dependency>
